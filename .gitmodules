@@ -1,0 +1,3 @@
+[submodule "exam-n2_18_chat_web"]
+	path = exam-n2_18_chat_web
+	url = git@github.com:jnp2018/exam-n2_18_chat_web.git
